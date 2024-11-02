@@ -1,3 +1,3 @@
-An exploratory analysis was performed on the dataset provided on Kaggle (https://www.kaggle.com/datasets/shivamb/netflix-shows/data?select=netflix_titles.csv). See the page for more information on licensing, etc.
+This project provides an exploratory analysis of Netflix data from Kaggle (https://www.kaggle.com/datasets/shivamb/netflix-shows/data?select=netflix_titles.csv). For details on licensing, please refer to the Kaggle page.
 
-The analysis used Python (Jupyter IDE) to interpret the Netflix data. Throughout the analysis, various comments were made to show the reader all the reasons behind the chosen techniques.
+The analysis was conducted in Python using Jupyter Notebook, with comments explaining the reasoning behind each technique used.
